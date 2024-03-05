@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Certainly! Here's a self-introduction for your GitHub.io page:
-
----
 
 ### About Me
 
@@ -24,6 +21,6 @@ Hey there! 👋 I'm Chendi, a first-year Ph.D. student at the Department of Comp
 
 🚀 **Future Goals**: As I progress through my Ph.D. journey, I aspire to make meaningful contributions to the field of computer science, leveraging cutting-edge technologies to solve real-world challenges. I'm excited to collaborate with like-minded individuals and contribute to the open-source community.
 
-📫 **Get in Touch**: Interested in connecting or collaborating? Feel free to reach out to me via email at [your_email@example.com](mailto:chendi.zhu@smail.nju.edu.cn) or connect with me on [LinkedIn](http://linkedin.com/in/chendi-zhu-295b98235).
+📫 **Get in Touch**: Interested in connecting or collaborating? Feel free to reach out to me via email at [chendi.zhu@smail.nju.edu.cn] or connect with me on [LinkedIn](http://linkedin.com/in/chendi-zhu-295b98235).
 
 Let's innovate, learn, and grow together! 💡
