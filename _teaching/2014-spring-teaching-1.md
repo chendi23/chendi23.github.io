@@ -2,7 +2,7 @@
 title: "Computer Graphic Exercise"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "Nanjing University, Computer Science and Technology"
 date: 2024-03-05
 location: "Nanjing, China"
