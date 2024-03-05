@@ -11,7 +11,7 @@ redirect_from:
 
 ### About Me
 
-Hey there! 👋 I'm Chendi, a first-year Ph.D. student at the Department of Computer Science and Technology of Nanjing University.
+Hey there! 👋 I'm Chendi Zhu, a first-year Ph.D. student at the Department of Computer Science and Technology of Nanjing University.
 
 🎓 **Academic Journey**: I'm currently diving deep into the world of computer science, with a focus on point cloud scene understanding and neural architecture search. My passion lies in exploring innovative solutions to complex problems in these areas, pushing the boundaries of what's possible in the field.
 
@@ -21,6 +21,6 @@ Hey there! 👋 I'm Chendi, a first-year Ph.D. student at the Department of Comp
 
 🚀 **Future Goals**: As I progress through my Ph.D. journey, I aspire to make meaningful contributions to the field of computer science, leveraging cutting-edge technologies to solve real-world challenges. I'm excited to collaborate with like-minded individuals and contribute to the open-source community.
 
-📫 **Get in Touch**: Interested in connecting or collaborating? Feel free to reach out to me via email at [chendi.zhu@smail.nju.edu.cn] or connect with me on [LinkedIn](http://linkedin.com/in/chendi-zhu-295b98235).
+📫 **Get in Touch**: Interested in connecting or collaborating? Feel free to reach out to me via email at [chendi.zhu@smail.nju.edu.cn] (mailto:chendi.zhu@smail.nju.edu.cn) or connect with me on [LinkedIn](http://linkedin.com/in/chendi-zhu-295b98235).
 
 Let's innovate, learn, and grow together! 💡
