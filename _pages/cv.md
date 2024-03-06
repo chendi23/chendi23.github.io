@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science and Technology, Nanjing University, 2027 (expected)
+* M.S. in Electrical Engineering and Information Technology, RWTH Aachen University, 2022
+* B.S. in Electrical Engineering and Information Technology, RWTH Aachen University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2021: Data Analysist
+  * B.S.H
+  * Duties includes: Analysing the data between work stations of the B.S.H factory.
+  * Supervisor: Alberto Manas
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021: Artificial Intelligence Engineer
+  * KG Data
+  * Duties included: Building an article recommendation system.
+  * Supervisor: Ling Zhong
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#  * Summer 2015: Research Assistant
+#  * Github University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
   
 Skills
 ======
