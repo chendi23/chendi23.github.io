@@ -26,11 +26,6 @@ Work experience
   * KG Data
   * Duties included: Building an article recommendation system.
   * Supervisor: Ling Zhong
-
-#  * Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
   
 Skills
 ======
