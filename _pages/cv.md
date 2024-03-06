@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Fall 2021: Data Analysist
+* Fall 2021: Data Analyst
   * B.S.H
   * Duties includes: Analysing the data between work stations of the B.S.H factory.
   * Supervisor: Alberto Manas
