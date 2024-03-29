@@ -25,7 +25,7 @@ Work experience
 * Fall 2021: Artificial Intelligence Engineer
   * KG Data
   * Duties included: Building an article recommendation system.
-  * Supervisor: Ling Zhong
+  * Supervisor: Ling Zhong, Guilin Qi
   
 Skills
 ======
