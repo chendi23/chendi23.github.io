@@ -11,7 +11,7 @@ redirect_from:
 
 ### About Me
 
-Hey there! 👋 I'm Chendi Zhu, a first-year Ph.D. student at the Department of Computer Science and Technology of Nanjing University.
+Hey there! 👋 I'm Chendi Zhu, a second-year Ph.D. student at the School of Computer Science and Technology of Nanjing University.
 
 🎓 **Academic Journey**: I'm currently diving deep into the world of computer science, with a focus on point cloud scene understanding and neural architecture search. My passion lies in exploring innovative solutions to complex problems in these areas, pushing the boundaries of what's possible in the field.
 
