@@ -42,12 +42,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/chendi23"
+  github           : "chendi23"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,12 +56,12 @@ author:
   keybase          : # Username
   instagram        : "chendizzz"    # Username
   lastfm           : # Username
-  linkedin         : "Chendi Zhu"
+  linkedin         : "chendi-zhu-295b98235"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "掌控雷电"
+  steam            : "390960183"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username     # Replace this with your X / Twitter handle
