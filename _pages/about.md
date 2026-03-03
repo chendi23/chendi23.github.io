@@ -15,7 +15,7 @@ Hey there! 👋 I'm Chendi Zhu, a third-year Ph.D. student at the School of Comp
 
 🎓 **Academic Journey**: I'm currently diving deep into the world of computer science, with a focus on point cloud scene understanding and neural architecture search. My passion lies in exploring innovative solutions to complex problems in these areas, pushing the boundaries of what's possible in the field.
 
-💻 **Research Interests**: My research interests primarily revolve around point cloud scene understanding, where I delve into techniques for analyzing and interpreting three-dimensional data. Additionally, I'm intrigued by the fascinating realm of neural architecture search, constantly seeking ways to optimize and automate the design of neural networks for various tasks.
+💻 **Research Interests**: My research interests primarily revolve around scene understanding, where I delve into techniques for analyzing and interpreting three-dimensional data. Additionally, I'm intrigued by the fascinating realm of neural architecture search, constantly seeking ways to optimize and automate the design of neural networks for various tasks.
 
 🌟 **GitHub Projects**: On my GitHub page, you'll find a collection of projects reflecting my academic pursuits, including implementations of algorithms, research prototypes, and experiments exploring the latest advancements in computer science.
 
