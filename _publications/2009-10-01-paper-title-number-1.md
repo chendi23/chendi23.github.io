@@ -3,11 +3,11 @@ title: "SasWOT: Real-Time Semantic Segmentation Architecture Search WithOut Trai
 image: /images/saswot.png
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'SasWOT introduces a training-free approach to semantic segmentation architecture search by automatically discovering effective zero-cost proxies. By optimizing proxy functions through evolutionary search, it eliminates expensive training during architecture exploration, significantly accelerating the search process while maintaining strong accuracy–efficiency trade-offs.'
 date: 2024-03-31
 venue: 'AAAI'
 paperurl: 'http://chendi23.github.io/files/SasWOT.pdf'
-authors: "Chendi Zhu*, Lujun Li*, Yuli Wu, Zhengxing Sun"
+authors: "Chendi Zhu*, Lujun Li*, Yuli Wu, Zhengxing Sun†"
 code:  ""
 project: ""
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
