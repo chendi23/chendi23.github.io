@@ -20,7 +20,7 @@
     {% if post.image %}
     <div class="pub-card-img">
       <a href="{{ base_path }}{{ post.url }}">
-        <img src="{{ post.header.teaser }}" class="pub-image">
+        <img src="{{ post.image | prepend: base_path }}" class="pub-image">
       </a>
     </div>
     {% endif %}
