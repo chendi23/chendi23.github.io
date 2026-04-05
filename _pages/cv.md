@@ -20,7 +20,7 @@ Work experience
 * Fall 2021: Data Analyst
   * B.S.H
   * Duties includes: Analysing the data between work stations of the B.S.H factory.
-  * Supervisor: Alberto Manas
+  * Supervisor: Alberto Manas, Jian Sun
 
 * Fall 2021: Artificial Intelligence Engineer
   * KG Data
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Conference Reviewer:  NeurIPS 2024, AISTATS 2025, ICLR 2025, AISTATS 2026, NeurIPS 2026 (declined)
