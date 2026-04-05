@@ -243,3 +243,84 @@
     }
   }
 }
+
+/* ===== Publication Card UI ===== */
+
+.pub-card {
+  margin-bottom: 25px;
+  padding: 15px;
+  border-radius: 12px;
+  transition: all 0.25s ease;
+}
+
+.pub-card:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+  transform: translateY(-3px);
+}
+
+.pub-card-inner {
+  display: flex;
+  gap: 20px;
+}
+
+.pub-card-img img {
+  width: 150px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.pub-card-content {
+  flex: 1;
+}
+
+.pub-title {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.pub-title a {
+  text-decoration: none;
+}
+
+.pub-authors {
+  margin: 4px 0;
+  color: #444;
+  font-size: 0.9rem;
+}
+
+.pub-venue {
+  margin: 2px 0;
+  color: #777;
+  font-size: 0.9rem;
+}
+
+.pub-excerpt {
+  margin: 6px 0;
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.pub-links a {
+  margin-right: 12px;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+.pub-tags {
+  margin-top: 6px;
+}
+
+.pub-tag {
+  display: inline-block;
+  background: #eef2ff;
+  color: #4f46e5;
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  margin-right: 5px;
+}
