@@ -1,4 +1,3 @@
-
 ---
 title: "LDCNet: Long-Distance Context Modeling for Large-Scale 3D Point Cloud Scene Semantic Segmentation"
 image: /images/ldcnet.png
