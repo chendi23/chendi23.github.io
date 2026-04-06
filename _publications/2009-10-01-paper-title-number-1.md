@@ -7,7 +7,23 @@ excerpt: 'SasWOT introduces a training-free approach to semantic segmentation ar
 date: 2024-03-31
 venue: 'AAAI'
 paperurl: 'http://chendi23.github.io/files/SasWOT.pdf'
-authors: "Chendi Zhu*, Lujun Li*, Yuli Wu, Zhengxing Sun†"
+authors: 
+  - name: Chendi Zhu
+    me: true
+    affil: 1
+    first: true
+  - name: Lujun Li
+    affil: 2
+    first: true
+  - name: Yuli Wu
+    affil: 3
+  - name: Zhengxing sun
+    affil: 1
+    corresponding: true
+affiliations:
+  1: Nanjing University
+  2: HKUST
+  3: RWTH Aachen University
 code:  ""
 project: ""
 citation: 'Zhu, C., Li, L., Wu, Y., & Sun, Z. (2024, March). Saswot: Real-time semantic segmentation architecture search without training. In Proceedings of the AAAI conference on artificial intelligence (Vol. 38, No. 7, pp. 7722-7730).'
