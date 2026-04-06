@@ -341,3 +341,17 @@
   height: auto;
   object-fit: contain;
 }
+
+
+.is-hidden {
+  display: none;
+}
+
+.toggle-excerpt {
+  background: none;
+  border: none;
+  color: #007acc;
+  cursor: pointer;
+  padding: 0;
+  font-size: 13px;
+}
