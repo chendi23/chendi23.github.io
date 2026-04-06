@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Chendi Zhu/Personal website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chendi Zhu"
 description              : &description "seeing is believing"
 url                      : https://chendi23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
