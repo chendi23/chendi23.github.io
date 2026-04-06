@@ -14,3 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<p style="font-size:0.85rem; color:#666;">
+* indicates equal contribution &nbsp;&nbsp; † indicates corresponding author
+</p>
