@@ -284,9 +284,20 @@
 }
 
 .pub-authors {
-  margin: 4px 0;
-  color: #444;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
+  color: #333;
+  line-height: 1.5;
+}
+
+.pub-affiliations {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 2px;
+}
+
+.pub-authors sup {
+  font-size: 0.7em;
+  margin-left: 1px;
 }
 
 .pub-venue {
