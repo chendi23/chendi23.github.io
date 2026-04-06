@@ -76,11 +76,13 @@
       </p>
 
       <!-- 摘要 -->
-      {% if post.excerpt %}
-      <p class="pub-excerpt">
-        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+       {% if post.excerpt %}
+      <p class="archive__item-excerpt is-hidden">
+        {{ post.excerpt | strip_html }}
       </p>
-      {% endif %}
+    
+      <button class="toggle-excerpt">Show more</button>
+    {% endif %}
 
       <!-- 按钮 -->
       <div class="pub-links">
